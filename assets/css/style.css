@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.line{
+    padding: 0.5em;
+    border: lightgray solid 0.5em;
+    display: flex;
+    justify-content: space-around;
+}
+.line > section {
+    display: inline-block;
+}
+.header img{
+    max-width: 400px;
+}
+.alert > section > iframe{
+    max-width: 300px;
+}
+/* .graph{
+    display: flex;
+    justify-content: space-around;
+} */
+.graph > section, .graph > section > iframe{
+    /* background-color: green; */
+    display: inline-block;
+    min-width: 400px;
+    min-height: 300px;
+}
+.graph > section > iframe{
+}
