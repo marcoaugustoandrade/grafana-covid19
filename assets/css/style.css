@@ -30,3 +30,9 @@
 }
 .graph > section > iframe{
 }
+.text{
+    font-size: 0.7em;
+    text-align: center;
+    color: gray;
+    padding: 0.4em;
+}
