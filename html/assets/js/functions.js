@@ -5,7 +5,7 @@ let ativos = document.querySelector("#ativos")
 let descartados = document.querySelector("#descartados")
 let internados = document.querySelector("#internados")
 
-let url = 'http://localhost:3000'
+let url = 'https://https://covid19.adsvilhena.ninja/api'
 
 // Totalizador
 function run(){
