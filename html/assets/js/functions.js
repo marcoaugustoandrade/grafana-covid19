@@ -5,7 +5,7 @@ let ativos = document.querySelector("#ativos")
 let descartados = document.querySelector("#descartados")
 let internados = document.querySelector("#internados")
 
-let url = 'https://apicovid19.adsvilhena.ninja/api'
+let url = 'https://apicovid19.adsvilhena.ninja'
 
 // Totalizador
 function run(){
